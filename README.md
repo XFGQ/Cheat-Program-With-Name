@@ -19,7 +19,7 @@ It is intended for educational and academic use only.
 
 This program allows you to:
 
-- Enter the name of a running program (e.g., `game.exe`)
+- Enter the name or PID number of a running program (e.g., `game.exe`, 26500)
 - Enter the value currently visible on-screen
 - Find all RAM addresses holding that value
 - Narrow down the correct address by filtering with new values
